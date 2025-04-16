@@ -46,5 +46,5 @@ Concept paper
 
 Carlevaro, Alberto, et al. "Probabilistic Safety Regions Via Finite Families of Scalable Classifiers." arXiv preprint arXiv:2309.04627 (2023)
 
-and under submission for IEEE Transactions on Neural Networks and Learning Systems.
+and accepted for IEEE Transactions on Neural Networks and Learning Systems.
 
